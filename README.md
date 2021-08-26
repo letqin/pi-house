@@ -1,10 +1,10 @@
 # pi-house
 
-Raspberry Pi controlled greenhouse with climate monitoring and controlling systems
+Raspberry Pi greenhouse with climate monitoring and controls. pi-house is an indoor greenhouse with the intention of bringing a reliable, relatively self sustaining personal garden. 
 
 # What Does It Monitor?
 
-The greenhouse itself is mostly sealed with multiple values for environmental conditions in the greenhouse being measured at all times. The monitoring systems include a soil moisture and temperature sensor as well as an ambient temperature sensor. There is a light sensor to see if the secondary light source is necessary (if there is a cloudy day or other weather conditions that may limit sunlight).
+The greenhouse itself is mostly sealed with multiple values for environmental conditions in the greenhouse being measured at all times. The monitoring systems include a soil moisture and temperature sensor as well as an ambient temperature sensor. A light sensor will monitor if a secondary light source is necessary (if there is a cloudy day or other weather conditions that may limit sunlight).
 
 # What Can It Do?
 
