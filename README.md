@@ -1,6 +1,6 @@
 # pi-house
 
-Raspberry Pi greenhouse with climate monitoring and controls. pi-house is an indoor greenhouse with the intention of bringing a reliable, relatively self sustaining personal garden. 
+Raspberry Pi greenhouse with climate monitoring and controls. pi-house is an indoor greenhouse with the intention of bringing a reliable, relatively self sustaining personal garden. There will, in the future, be an outdoor version as well. 
 
 # What Does It Keep Track Of?
 
